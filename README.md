@@ -19,7 +19,7 @@ After downloading the starter files, I had calculated key metrics of the distric
 <img width="1013" alt="Screenshot 2023-12-18 at 1 54 07 PM" src="https://github.com/samkimmmm/pandas_challenge/assets/135805393/6a772719-d688-49d7-befd-dac85d8989d1">
 
 # School Summary
-Once the district calculations were complete, I then calculated key metrics for each school and created a DataFrame with the following columns:
+Once the district calculations were complete, I then calculated key metrics using groupby and value_counts() for each school and created a DataFrame with the following columns:
 * School name (Index)
 * School Type
 * Total Students
@@ -37,4 +37,7 @@ I sorted the schools by "% Overall Passing" in descending order, displayed the f
 <img width="1319" alt="Screenshot 2023-12-18 at 1 55 11 PM" src="https://github.com/samkimmmm/pandas_challenge/assets/135805393/201280ec-7bd8-40b7-975d-3254095f5797">
 
 # Math & Reading Scores by Grade
-I performed 
+Using the groupby function, I calculated the average math and reading scores for each individual grade (9, 10, 11, 12) and created a dataframe for math and reading.
+<img width="730" alt="Screenshot 2023-12-18 at 1 59 34 PM" src="https://github.com/samkimmmm/pandas_challenge/assets/135805393/e5c8d117-3011-4e9c-bd65-463433693f41">
+<img width="756" alt="Screenshot 2023-12-18 at 1 59 46 PM" src="https://github.com/samkimmmm/pandas_challenge/assets/135805393/5bbd3f56-d13f-4a07-9191-03cd92a0e4c9">
+
