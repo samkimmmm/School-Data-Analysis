@@ -30,9 +30,11 @@ Once the district calculations were complete, I then calculated key metrics for 
 * % Passing Math
 * % Passing Reading
 * % Overall Passing
+<img width="1300" alt="Screenshot 2023-12-18 at 1 54 41 PM" src="https://github.com/samkimmmm/pandas_challenge/assets/135805393/c845512f-a7f4-444f-a4d4-60401849716b">
 
 # Highest and Lowest Performing Schools (by % Overall Passing)
 I sorted the schools by "% Overall Passing" in descending order, displayed the first 5 rows, then saved the results as a new DataFrame called "top_schools". I repeated this process in ascending order for the lowest performing schools and dsaved the results as a new DataFrame called "bottom_schools".
+<img width="1319" alt="Screenshot 2023-12-18 at 1 55 11 PM" src="https://github.com/samkimmmm/pandas_challenge/assets/135805393/201280ec-7bd8-40b7-975d-3254095f5797">
 
 # Math & Reading Scores by Grade
 I performed 
