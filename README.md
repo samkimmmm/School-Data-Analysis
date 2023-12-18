@@ -1,8 +1,17 @@
 # pandas_challenge
 Module 4 Challenge
 
-1. PyCitySchools folder
-   - Contains the PyCitySchool_starter.ipynb that holds the script with a clear analysis, along with 2 conclusions.
+In this challenge, I created and manipulated Pandas Dataframes to analyze school and standardized test data.
 
-2. Starter_Code folder
-   - Contains the starter code that was used to begin the analysis.
+# District Summary
+After downloading the starter files, I had calculated the following:
+* Total number of unique schools: 15
+* Total students: 39170
+* Total budget: $24,649,428
+* Average math score: 78.99%
+* Average reading score: 81.88%
+* Percentage of students who passed math: 74.98%
+* Percentage of students who passed reading: 85.81%
+* Percentage of students who passed both math AND reading: 65.17%
+
+
