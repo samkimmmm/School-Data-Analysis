@@ -1,5 +1,4 @@
-# pandas_challenge
-Module 4 Challenge
+# pandas_challenge - Module 4
 
 # Overview
 In this challenge, Pandas DataFrames were leveraged to analyze school and standardized test data.
